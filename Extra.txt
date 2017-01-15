@@ -1,0 +1,3 @@
+[USSF]
+Version = 1.4.1.0
+Changelog = +++   New features   +++{EOL}- Skin feature (skin files are external and have .skn extension){EOL}- Language translation (language strings are inbuilt; only Enlish so far){EOL}- Update feature{EOL}- Possibilty to hide the wpi section{EOL}- Possibilty to hide the GUI completely or to show only a \"Loading ...\" splash{EOL}- Drag and drop over the executable{EOL}+++ Updated features +++{EOL}N/A{EOL}+++    Bugs fixed    +++{EOL}N/A
